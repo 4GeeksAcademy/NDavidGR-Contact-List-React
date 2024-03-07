@@ -1,3 +1,16 @@
 /* 
     General Styles
 */
+body{
+    
+    background-color: #e4e4e4 ;
+}
+
+.li-color{
+    background-color:hsl(0, 0%, 100%); 
+}
+
+.navColor{
+    background-color: #4d4c4c !important;
+    border: 0px;
+}
